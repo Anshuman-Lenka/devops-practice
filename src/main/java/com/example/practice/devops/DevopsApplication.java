@@ -10,8 +10,10 @@ public class DevopsApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hi, How are you.....");
-		System.out.println("Sostware Engineer.....");
+		System.out.println("Software Engineer.....");
 		System.out.println(new Date());
+		System.out.println("Hello.....");
+
 
 	}
 
